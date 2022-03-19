@@ -1,0 +1,27 @@
+
+body {
+    background-color: lightblue;
+    
+    
+  }
+  
+  div,h1,h2,h3,p {
+    color: DARKRED;
+    text-align: center;
+
+  }
+  span{
+    font-style: italic;
+    
+  }
+  .bold{font-weight:bold;}
+  ul { display: inline-block; text-align: left; }
+ 
+  p {
+    font-family: verdana;
+    font-size: 25px;
+  }
+
+img{
+    box-align : center;}
+
